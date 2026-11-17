@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /blog-plantilla.html
+
+Sitemap: https://insightlatam.com/sitemap.xml
